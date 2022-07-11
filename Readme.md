@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/syed-hamza-jaffar-zaidi-a4046818b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn Profile" height="30" width="40" /></a>
-<a href="https://fb.com/kimjayden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" /></a>
+<a href="https://www.facebook.com/HamzaZaidi.123X/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" /></a>
  <a href="https://replit.com/@HamzaJaffar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/rahuldkjain/5fe34f3c0d4d9314f61cb04ead2aa4444e799db2/assets/codepen.svg" alt="Replit Profile" height="30" width="40" /></a> <a href="https://github.com/HamzaZaidiX" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub Profile" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
