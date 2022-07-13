@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Zaidi</h1>
 <h3 align="center">A multi-talented Full-Stack developer from Pakistan <img align="center" src="https://cdn.worldvectorlogo.com/logos/pakstan.svg" alt="Pakistan Flag" height="40" width="40" /></h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaZaidiX&label=Profile%20repositories%20views&color=b60e21&style=flat" alt="CODER" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaZaidiX&label=Profile%20repositories%20followers%20views&color=b60e21&style=flat" alt="CODER" /> </p>
 
 - 🔭 I’m currently working on Website developing 
 
