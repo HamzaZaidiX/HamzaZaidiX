@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I'm good with people**
 
-<a href="https://github.com/HamzaZaidiX/tab=repositories" target="blank"><img align="right" alt="cat" width="100" src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="Github Cat Loading"/></a>
+<a href="https://github.com/HamzaZaidiX?tab=repositories" target="blank"><img align="right" alt="cat" width="100" src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="Github Cat Loading"/></a>
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
