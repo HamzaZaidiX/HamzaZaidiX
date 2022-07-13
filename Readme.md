@@ -1,4 +1,4 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+[![MasterHead](https://ton.twimg.com/onboarding/professional_profiles/upsell_header_wide_v2.png)]()
 
 <h1 align="center">Hi 👋, I'm Hamza Zaidi</h1>
 <h3 align="center">A multi-talented Full-Stack developer from Pakistan <img align="center" src="https://cdn.worldvectorlogo.com/logos/pakstan.svg" alt="Pakistan Flag" height="40" width="40" /></h3>
