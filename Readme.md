@@ -1,4 +1,4 @@
-<img src="https://ton.twimg.com/onboarding/professional_profiles/upsell_header_wide_v2.png" alt="Header Image" align="center" width="1000"/>
+<a href="https://github.com/HamzaZaidiX/Introduction/"><img src="https://ton.twimg.com/onboarding/professional_profiles/upsell_header_wide_v2.png" alt="Header Image" align="center" width="1000"/></a>
 
 <h1 align="center">Hi 👋, I'm Hamza Zaidi</h1>
 <h3 align="center">A multi-talented Full-Stack developer from Pakistan <img align="center" src="https://cdn.worldvectorlogo.com/logos/pakstan.svg" alt="Pakistan Flag" height="40" width="40" /></h3>
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I'm good with people**
 
-<a href="https://github.com/HamzaZaidiX?tab=repositories" target="blank"><img align="right" alt="cat" width="100" src="https://github.githubassets.com/images/mona-loading-light.gif" alt="Github Cat Loading"/></a>
+<a href="https://github.com/HamzaZaidiX?tab=repositories" target="blank"><img align="right" alt="cat" width="100" src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="Github Octocat"/></a>
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
