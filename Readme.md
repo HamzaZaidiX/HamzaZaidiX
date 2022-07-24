@@ -15,7 +15,7 @@
 
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
-- 📫 How to reach me `syedhamzajaffarzaidi@gmail.com` 
+- 📫 How to reach me <a href="mailto=syedhamzajaffarzaidi@gmail.com" target="blank">**Gmail**</a>
 
 - ⚡ Fun fact **I'm good with people**
 
