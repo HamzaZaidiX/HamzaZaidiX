@@ -1,4 +1,4 @@
-<a href="https://github.com/HamzaZaidiX/Introduction/"><img src="https://ton.twimg.com/onboarding/professional_profiles/upsell_header_wide_v2.png" alt="Header Image" align="center" width="1000" height="700"/></a>
+<a href="https://github.com/HamzaZaidiX/Introduction/"><img src="https://ton.twimg.com/onboarding/professional_profiles/upsell_header_wide_v2.png" alt="Header Image" align="center" width="1000" height="500"/></a>
 
 <h1 align="center">Hi 👋, I'm Hamza Zaidi</h1>
 <h3 align="center">A Multi-Talented Full-Stack Web Developer & Designer from <b>Pakistan</b> <img align="center" src="https://cdn.worldvectorlogo.com/logos/pakstan.svg" alt="Pakistan Flag" height="40" width="40" /></h3>
