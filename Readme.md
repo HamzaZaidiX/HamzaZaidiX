@@ -1,7 +1,7 @@
 <a href="https://github.com/HamzaZaidiX/Introduction/"><img src="https://ton.twimg.com/onboarding/professional_profiles/upsell_header_wide_v2.png" alt="Header Image" align="center" width="1000" height="500"/></a>
 
-<h1 align="center">Hi 👋, I'm Hamza Zaidi</h1>
-<h3 align="center">A Multi-Talented Full-Stack Web Developer & Designer from <b>Pakistan</b> <img align="center" src="https://cdn.worldvectorlogo.com/logos/pakstan.svg" alt="Pakistan Flag" height="40" width="40" /></h3>
+<h1 align="center"><i>Hi 👋, I'm Hamza Zaidi</i></h1>
+<h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from <b>Pakistan</b></i> <img align="center" src="https://cdn.worldvectorlogo.com/logos/pakstan.svg" alt="Pakistan Flag" height="40" width="40" /></h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaZaidiX&label=Profile%20repositories%20followers%20views&color=b60e21&theme=dracula" alt="CODER" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
-- 📫 How to reach me <a href="mailto=syedhamzajaffarzaidi@gmail.com" target="blank">syedhamzajaffarzaidi@gmail.com</a>
+- 📫 How to reach me <a href="mailto=syedhamzajaffarzaidi@gmail.com" target="blank"><b>syedhamzajaffarzaidi@gmail.com</b></a>
 
 - ⚡ Fun fact **I'm good with people**
 
