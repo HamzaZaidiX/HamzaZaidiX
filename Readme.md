@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaZaidiX&label=Profile%20repositories%20followers%20views&color=b60e21&theme=dracula" alt="CODER" /> </p>
 
-- 🔭 I’m currently Working on my **Website** <img src ="https://cdn-icons-png.flaticon.com/512/1/1198.png" alt="my portfolio" color="blue" width="40" height="40"/>
+- 🔭 I’m currently Working on my **Website** <img src ="https://cdn-user-icons.flaticon.com/14125/14125210/1660293119576.svg?token=exp=1660294022~hmac=90d3b8e4df43b40193ae4b8b42f6ca19" alt="my portfolio" color="blue" width="40" height="40"/>
 
 - 🌱 I’m currently learning more about **React, MERN Stack, Blockchain Dev etc.**
 
