@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at my [**Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar)
 
-- 📝 I regularly write articles on [**LinkedIn**](https://www.linkedin.com/in/shjz/)
+- 📝 You can check out my **Resume** on [**LinkedIn**](https://www.linkedin.com/in/shjz/)
 
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
