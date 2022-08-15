@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shjz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn Profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/HamzaZaidi.123X/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" /></a>
-<a href="https://twitter.com/syedhamzajaffa2" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter Profile" height="30" width="40"/></a>
+<a href="https://twitter.com/syedhamzajaffa2" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter Profile" height="30" width="40"/></a>
 <a href="https://replit.com/@HamzaJaffar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit Profile" height="30" width="30" /></a> <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="center" src ="https://i.ibb.co/GFMcSJF/www.png" alt="My_Portfolio" width="40" height="40"/></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
