@@ -5,7 +5,7 @@
 <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaZaidiX&label=Profile%20repositories%20followers%20views&color=b60e21&theme=dracula" alt="CODER" /> </p>
 
-- 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://hamza-zaidi-portfolio-shjz.vercel.app/) **heavy by Certifications & Learning New Things** 📄👜💻 
+- 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://hamza-zaidi-portfolio-shjz.vercel.app/) heavy by Learning New Things 📄💻 
 
 - 🌱 I’m currently learning more about **React, MERN Stack, Blockchain Dev etc.**
 
