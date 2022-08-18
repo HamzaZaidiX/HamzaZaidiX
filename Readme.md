@@ -5,13 +5,13 @@
 <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaZaidiX&label=Profile%20repositories%20followers%20views&color=b60e21&theme=dracula" alt="CODER" /> </p>
 
-- 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://hamza-zaidi-portfolio-shjz.vercel.app/) heavy 📄 
+- 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://hamza-zaidi-portfolio-shjz.vercel.app/) **heavy by Certifications & Learning New Things** 📄👜💻 
 
 - 🌱 I’m currently learning more about **React, MERN Stack, Blockchain Dev etc.**
 
-- 👨‍💻 All of my projects are available at my [**Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar)
+- 💻 All of my projects are available at my [**Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar)
 
-- 📝 You can check out my **Resume** on [**LinkedIn**](https://www.linkedin.com/in/shjz/)
+- 📝 You can check out my **Resume** on [**LinkedIn**](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:14015425/?edit=false)
 
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
@@ -26,8 +26,8 @@
 <a href="https://www.linkedin.com/in/shjz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn Profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/HamzaZaidi.123X/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" /></a>
 <a href="https://twitter.com/syedhamzajaffa2" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter Profile" height="30" width="40"/></a>
-<a href="https://replit.com/@HamzaJaffar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit Profile" height="30" width="30" /></a> 
  <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="center" src ="https://i.ibb.co/GFMcSJF/www.png" alt="My_Portfolio" width="40" height="40"/></a>
+<a href="https://replit.com/@HamzaJaffar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit Profile" height="30" width="30" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
