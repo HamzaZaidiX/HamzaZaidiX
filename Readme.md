@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I'm good with people**
 
-<a href="https://github.com/HamzaZaidiX?tab=repositories" target="blank"><img align="right" alt="cat" width="100" src="https://cdn.syncfusion.com/content/images/common/popup/bolddesk-popup-animation.svg" alt="Working on Desk"/></a>
+<a href="https://github.com/HamzaZaidiX?tab=repositories" target="blank"><img align="right" src="https://cdn.syncfusion.com/content/images/common/popup/bolddesk-popup-animation.svg" alt="Working on Desk"/></a>
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
