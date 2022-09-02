@@ -1,7 +1,7 @@
 <a href="https://github.com/HamzaZaidiX/HamzaZaidiX/"><img src="https://i.ibb.co/jWVn8DP/banner.png" alt="Header Image" align="center" width="1000" height="300"/></a>
 
 <h1 align="center"><i>Hi 👋, I'm Hamza Zaidi</i></h1>
-<h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from <b>Pakistan</b></i> <a href="https://en.wikipedia.org/wiki/Pakistan"><img align="center" src="https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png" alt="Pakistan Flag" height="40" width="40" /></a></h3>
+<h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from <b>Pakistan</b></i> <img align="center" src="https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png" alt="Pakistan Flag" height="40" width="40" /></h3>
 <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaZaidiX&label=Profile%20repositories%20followers%20views&color=b60e21&theme=compact" alt="CODER" /> </p>
 
@@ -19,7 +19,7 @@
 <a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="150" src="https://cdn.syncfusion.com/content/images/common/popup/bolddesk-popup-animation.svg" alt="Working on Desk"/></a>
 - ⚡ Fun fact **I'm good with people**
 
-<h3 align="left">Connect with me on:</h3>
+<h3 align="left">🌐 Connect with me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shjz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn Profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/HamzaZaidi.123X/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 <a href="https://replit.com/@HamzaJaffar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit Profile" height="30" width="30" /></a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">👨🏻‍💻 Skills:</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
