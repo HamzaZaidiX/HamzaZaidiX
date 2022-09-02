@@ -5,19 +5,19 @@
 <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaZaidiX&label=Profile%20repositories%20followers%20views&color=b60e21&theme=compact" alt="CODER" /> </p>
 
-- 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://hamza-zaidi-portfolio-shjz.vercel.app/) heavy by Learning New Things 📄💻 
+- 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://hamza-zaidi-portfolio-shjz.vercel.app/) heavy by Learning New Things 💻. 
 
 - 🌱 I’m currently learning more about **React, MERN Stack, Blockchain Dev etc.**
 
-- 💻 All of my projects are available at my [**Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar)
+- 💻 All of my projects are available at my [**Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar).
 
-- 📝 You can check out my **Resume** on [**LinkedIn**](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:14015425/?edit=false)
+- 📝 You can check out my 👉 [**Resume**](https://i.ibb.co/kh8HQhW/Resume.jpg).
 
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
 - 📫 How to reach me <a href="mailto=syedhamzajaffarzaidi@gmail.com" target="blank"><b>syedhamzajaffarzaidi@gmail.com</b></a>
-<a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="150" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Desk"/></a>
-- ⚡ Fun fact **I'm good with people**
+<a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
+- ⚡ Fun fact **I'm good with people**.
 
 <h3 align="left">🌐 Connect with me on:</h3>
 <p align="left">
@@ -28,7 +28,7 @@
 <a href="https://replit.com/@HamzaJaffar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit Profile" height="30" width="30" /></a> 
 </p>
 
-<h3 align="left">👨🏻‍💻 Skills:</h3>
+<h3 align="left">👨🏻‍💻 Skills (Languges & Tools):</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
