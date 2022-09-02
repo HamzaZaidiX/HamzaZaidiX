@@ -16,7 +16,7 @@
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
 - 📫 How to reach me <a href="mailto=syedhamzajaffarzaidi@gmail.com" target="blank"><b>syedhamzajaffarzaidi@gmail.com</b></a>
-<a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="150" src="https://cdn.syncfusion.com/content/images/common/popup/bolddesk-popup-animation.svg" alt="Working on Desk"/></a>
+<a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="150" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Desk"/></a>
 - ⚡ Fun fact **I'm good with people**
 
 <h3 align="left">🌐 Connect with me on:</h3>
