@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://hamza-zaidi-portfolio-shjz.vercel.app/) heavy by Learning New Things 💻. 
 
-- 🌱 I’m currently learning more about **React, MERN Stack, Blockchain Dev etc.**
+- 🌱 I’m currently learning more about **MERN Stack, Blockchain Dev & Courses etc.**
 
 - 💻 All of my projects are available at my [**Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar).
 
