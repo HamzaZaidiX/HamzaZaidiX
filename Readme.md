@@ -60,10 +60,10 @@
  <img src="https://profile-counter.glitch.me/{HamzaZaidiX}/count.svg" alt="HamzaZaidiX" />
 </p>
 
-<h1 align="center">Bye 👋</h1>
-<h3 align="center">Hope you are also doing Well also 👍 my Profile Please feel Free to Contect Me 📞!</h3>
-
 ### <h2 align="center">Support Me 💰</h2>
  <p align="center"> 
 <a href="https://www.buymeacoffee.com/shjz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" ></a>
 </p>
+
+<h1 align="center">Bye 👋</h1>
+<h3 align="center">Hope you are also doing Well also 👍 my Profile Please feel Free to Contect Me 📞!</h3>
