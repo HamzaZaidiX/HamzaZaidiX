@@ -11,7 +11,7 @@
 
 - 💻 All of my projects are available at my [**Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar).
 
-- 📝 You can check out my 👉 <a href="HamzaZaidiX/resume.pdf" alt="Resume" target="_blank"><b>Resume</b></a>
+- 📝 You can check out my 👉 <a href="resume.pdf" alt="Resume" target="_blank"><b>Resume</b></a>
 
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
