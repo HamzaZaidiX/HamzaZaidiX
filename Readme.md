@@ -11,11 +11,11 @@
 
 - 💻 All of my projects are available at my [**Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar).
 
-- 📝 You can check out my 👉 [**Resume**](https://i.ibb.co/kh8HQhW/Resume.jpg).
+- 📝 You can check out my 👉 <a href="HamzaZaidiX/resume.pdf" alt="Resume" target="_blank"><b>Resume</b></a>
 
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
-- 📫 How to reach me <a href="mailto=syedhamzajaffarzaidi@gmail.com" target="blank"><b>syedhamzajaffarzaidi@gmail.com</b></a>
+- 📫 How to reach me <a href="mailto=syedhamzajaffarzaidi@gmail.com" target="_blank"><b>syedhamzajaffarzaidi@gmail.com</b></a>
 <a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
 - ⚡ Fun fact **I'm good with people**.
 
