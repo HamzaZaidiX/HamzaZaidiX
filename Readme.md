@@ -55,5 +55,15 @@
 <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaZaidiX&theme=tokyonight&layout=compact"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaZaidiX&theme=tokyonight&layout=compact" alt="Most Languages Used" /></a>
 <a align="center" href="https://github-readme-stats.vercel.app/api?username=HamzaZaidiX&theme=tokyonight&show_icons=true&hide=%22issues%22"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HamzaZaidiX&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="Hamza Zaidi GitHub Stats" /></a>
 
+### <h2 align="center">Visitor's Count</h2>
+ <p align="center"> 
+ <img src="https://profile-counter.glitch.me/{HamzaZaidiX}/count.svg" alt="HamzaZaidiX" />
+</p>
+
 <h1 align="center">Bye 👋</h1>
 <h3 align="center">Hope you are also doing Well also 👍 my Profile Please feel Free to Contect Me 📞!</h3>
+
+### <h2 align="center">Support Me 💰</h2>
+ <p align="center"> 
+<a href="https://www.buymeacoffee.com/shjz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" ></a>
+</p>
