@@ -52,8 +52,12 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://nextjs-template.vercel.app/vercel.svg" alt="Vercel" width="50" height="50"/></a>
 </p>
 
-<a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaZaidiX&theme=tokyonight&layout=compact"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaZaidiX&theme=tokyonight&layout=compact" alt="Most Languages Used" /></a>
-<a align="center" href="https://github-readme-stats.vercel.app/api?username=HamzaZaidiX&theme=tokyonight&show_icons=true&hide=%22issues%22"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HamzaZaidiX&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="Hamza Zaidi GitHub Stats" /></a>
+<h3 align="left">📈 Stats Summary:</h3>
+<p align="center">
+<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaZaidiX&theme=tokyonight&layout=compact" alt="Most Languages Used" />
+<img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=HamzaZaidiX&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="SHJZ GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaZaidiX&theme=highcontrast&hide_border=true" alt="SHJZ" />
+</p>
 
 ### <h2 align="center">Visitor's Count</h2>
  <p align="center"> 
