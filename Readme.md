@@ -1,7 +1,7 @@
 <a href="https://github.com/HamzaZaidiX/HamzaZaidiX/"><img src="https://i.ibb.co/jWVn8DP/banner.png" alt="Header Image" align="center" width="1000" height="300"/></a>
 
 <h1 align="center"><i>Hi 👋, I'm Hamza Zaidi</i></h1>
-<h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from <b>Pakistan</b></i> <img align="center" src="https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png" alt="Pakistan Flag" height="40" width="40" /></h3>
+<h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from <b>Pakistan</b></i> <img align="center" src="https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png" alt="Pakistan Flag" height="40" width="50" /></h3>
 <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaZaidiX&label=Profile%20repositories%20followers%20views&color=b60e21&theme=compact" alt="CODER" /> </p>
 
