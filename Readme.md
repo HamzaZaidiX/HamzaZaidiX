@@ -56,10 +56,10 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://nextjs-template.vercel.app/vercel.svg" alt="Vercel" width="50" height="50"/></a>
 </p>
 
-<h3 align="left">✍️ Random Dev Quote:</h3>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">✍️ Dev Quotes:</h3>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" /></p>
 
-<h3 align="left">📈 Stats Summary:</h3>
+<h3 align="center">📈 Stats Summary:</h3>
 <p align="center">
 <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaZaidiX&theme=tokyonight&layout=compact" alt="Most Languages Used" />
 <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=HamzaZaidiX&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="SHJZ GitHub Stats" />
