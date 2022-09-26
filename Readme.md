@@ -56,6 +56,9 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://nextjs-template.vercel.app/vercel.svg" alt="Vercel" width="50" height="50"/></a>
 </p>
 
+<h3 align="left">✍️ Random Dev Quote:</h3>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h3 align="left">📈 Stats Summary:</h3>
 <p align="center">
 <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaZaidiX&theme=tokyonight&layout=compact" alt="Most Languages Used" />
@@ -63,12 +66,12 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaZaidiX&theme=highcontrast&hide_border=true" alt="SHJZ" />
 </p>
 
-### <h2 align="center">Visitor's Count</h2>
+### <h2 align="center">📈 Visitor's Count</h2>
  <p align="center"> 
  <img src="https://profile-counter.glitch.me/{HamzaZaidiX}/count.svg" alt="HamzaZaidiX" />
 </p>
 
-### <h2 align="center">Support Me 💰</h2>
+### <h2 align="center">💰 Support Me</h2>
  <p align="center"> 
 <a href="https://www.buymeacoffee.com/shjz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" ></a>
 </p>
