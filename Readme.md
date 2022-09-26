@@ -22,7 +22,7 @@
 <a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
 - ⚡ Fun fact **I'm good with people**.
 
-<h3 align="left">🌐 Connect with me on:</h3>
+<h2 align="left">🌐 Connect with me on:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/shjz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn Profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/HamzaZaidi.123X/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" /></a>
@@ -32,7 +32,7 @@
 <a href="https://discord.gg/kERrH86r2f" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord Server" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">👨🏻‍💻 Skills (Languges & Tools):</h3>
+<h2 align="left">👨🏻‍💻 Skills (Languges & Tools):</h2>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -66,12 +66,12 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaZaidiX&theme=highcontrast&hide_border=true" alt="SHJZ" />
 </p>
 
-### <h2 align="center">📈 Visitor's Count</h2>
+<h3 align="center">📈 Visitor's Count</h3>
  <p align="center"> 
  <img src="https://profile-counter.glitch.me/{HamzaZaidiX}/count.svg" alt="HamzaZaidiX" />
 </p>
 
-### <h2 align="center">💰 Support Me</h2>
+<h3 align="center">💰 Support Me</h3>
  <p align="center"> 
 <a href="https://www.buymeacoffee.com/shjz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" ></a>
 </p>
