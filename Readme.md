@@ -4,9 +4,15 @@
 <h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from <b>Pakistan</b></i> <img align="center" src="https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png" alt="Pakistan Flag" height="40" width="50" /></h3>
 <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=HamzaZaidiX&label=Profile%20Views&icon=2&pretty=true" />
+<p>
+ <a href="https://visitcount.itsvg.in">
+ <img src="https://visitcount.itsvg.in/api?id=HamzaZaidiX&label=Profile%20Views&icon=2&pretty=true" alt="Visitors Count"/>
 </a>
+ <a href="https://www.buymeacoffee.com/shjz"><img src="https://camo.githubusercontent.com/9a1a9228dceac612322ceaf869c3e7616a4800682991a5c2d8c10d742f038046/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d53706f6e736f72266d6573736167653d254532253944254134266c6f676f3d47697448756226636f6c6f723d666636396234" alt="Sponsor Me" />
+</a>
+<a href="https://twitter.com/syedhamzajaffa2"><img src="https://camo.githubusercontent.com/0fd1ece90dca71e12cd9f9da1b31dcd86b7ba1f5b49aaa392885d79247c236c2/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f7374796c653d736f6369616c2675726c3d68747470732533412532462532466769746875622e636f6d25324672796f2d6d612532466769746875622d70726f66696c652d74726f706879" alt="Tweet" />
+</a>
+</p>
 
 - 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://hamza-zaidi-portfolio-shjz.vercel.app/) heavy by Learning New Things 💻. 
 
