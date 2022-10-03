@@ -66,9 +66,14 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaZaidiX&theme=highcontrast&hide_border=true" alt="SHJZ" />
 </p>
 
-<h3 align="center">📈 Visitor's Count</h3>
+<h3 align="center">📈 Visitor's Count:</h3>
  <p align="center"> 
  <img src="https://profile-counter.glitch.me/{HamzaZaidiX}/count.svg" alt="HamzaZaidiX" />
+</p>
+
+<h3 align="center">🏆 Trophies:</h3>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HamzaZaidiX&theme=dracula&no-bg=true&margin-w=10&margin-h=10" alt="SHJZ Trophies" />
 </p>
 
 <h3 align="center">💰 Support Me</h3>
