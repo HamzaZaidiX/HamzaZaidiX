@@ -6,7 +6,7 @@
 
 <p>
  <a href="https://visitcount.itsvg.in">
- <img src="https://visitcount.itsvg.in/api?id=HamzaZaidiX&label=Profile%20Views&icon=2&pretty=true" alt="Visitors Count"/>
+  <img src="https://visitcount.itsvg.in/api?id=HamzaZaidiX&label=Profile%20Views&icon=4&pretty=true" />
 </a>
  <a href="https://www.buymeacoffee.com/shjz"><img src="https://camo.githubusercontent.com/9a1a9228dceac612322ceaf869c3e7616a4800682991a5c2d8c10d742f038046/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d53706f6e736f72266d6573736167653d254532253944254134266c6f676f3d47697448756226636f6c6f723d666636396234" alt="Sponsor Me" />
 </a>
