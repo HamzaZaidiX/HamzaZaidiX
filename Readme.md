@@ -27,12 +27,13 @@
 
 <h2 align="left">🌐 Connect with me on:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/shjz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn Profile" height="30" width="40" /></a>
-<a href="https://www.facebook.com/HamzaZaidi.123X/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" /></a>
-<a href="https://twitter.com/syedhamzajaffa2" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter Profile" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/shjz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/HamzaZaidi.123X/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hamza_zaidi_x/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="Instagram" height="30" width="40"/></a>
+<a href="https://twitter.com/syedhamzajaffa2" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter" height="30" width="40"/></a>
 <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="_blank"><img align="center" src ="https://i.ibb.co/GFMcSJF/www.png" alt="My_Portfolio" width="40" height="40"/></a>
-<a href="https://replit.com/@HamzaJaffar" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit Profile" height="30" width="30" /></a>
-<a href="https://discord.gg/kERrH86r2f" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord Server" height="30" width="40" /></a>
+<a href="https://replit.com/@HamzaJaffar" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit" height="30" width="30" /></a>
+<a href="https://discord.gg/kERrH86r2f" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">👨🏻‍💻 Skills (Languges & Tools):</h2>
