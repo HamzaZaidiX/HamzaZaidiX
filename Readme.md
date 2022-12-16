@@ -21,6 +21,8 @@
 
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
+- 📝 I regularly write Blogs on [**Hashnode**](https://shjz.hashnode.dev/) and [Dev](https://dev.to)
+
 - 📫 How to reach me <a href="mailto=syedhamzajaffarzaidi@gmail.com" target="_blank"><b>syedhamzajaffarzaidi@gmail.com</b></a>
 <a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
 - ⚡ Fun fact **I'm good with people**.
