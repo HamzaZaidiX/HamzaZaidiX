@@ -65,13 +65,13 @@
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://nextjs-template.vercel.app/vercel.svg" alt="Vercel" width="50" height="50"/></a>
 </p>
 
-<h3 align="center">✍️ Dev Quotes:</h3>
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" /></p>
-
 <h3 align="center">✍️ Blogs:</h3>
-<p align="center" ><a align="center" href="https://shjz.hashnode.dev/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Drs91RS/brand-icon.png" alt="Hashnode" width="50" height="50"/></a>
+<p align="center" ><a align="center" href="https://shjz.hashnode.dev/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Drs91RS/brand-icon.png" alt="Hashnode" width="50" height="50"/></a> 
 <a align="center" href="https://dev.to/shjz" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="50" height="50"/></a>
 </p>
+
+<h3 align="center">✍️ Dev Quotes:</h3>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" /></p>
 
 <h3 align="center">📈 Stats Summary:</h3>
 <p align="center">
