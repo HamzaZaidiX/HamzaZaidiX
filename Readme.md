@@ -21,7 +21,7 @@
 
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
-- 📝 I regularly write Blogs on [**Hashnode**](https://shjz.hashnode.dev/) and [Dev](https://dev.to)
+- 📝 I regularly write Blogs on [**Hashnode**](https://shjz.hashnode.dev/) and [Dev](https://dev.to/shjz)
 
 - 📫 How to reach me <a href="mailto=syedhamzajaffarzaidi@gmail.com" target="_blank"><b>syedhamzajaffarzaidi@gmail.com</b></a>
 <a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
@@ -67,6 +67,11 @@
 
 <h3 align="center">✍️ Dev Quotes:</h3>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" /></p>
+
+<h3 align="center">✍️ Blogs:</h3>
+<p align="center" ><a align="center" href="https://shjz.hashnode.dev/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Drs91RS/brand-icon.png" alt="Hashnode" width="50" height="50"/></a>
+<a align="center" href="https://dev.to/shjz" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="50" height="50"/></a>
+</p>
 
 <h3 align="center">📈 Stats Summary:</h3>
 <p align="center">
