@@ -1,9 +1,8 @@
-<a href="https://github.com/HamzaZaidiX/HamzaZaidiX/"><img src="https://i.ibb.co/zry991P/banner.png" alt="Header-Image" align="center" width="1000" height="300"/></a>
+<h1 align="right"><img src="https://i.ibb.co/vJ9bz0v/Ready-Player-Me-Avatar-modified.png" alt="Header-Image" align="right" width="250" height="250" /></h1>
 
 <h1 align="center"><i>Hi 👋, I'm Hamza Zaidi</i></h1>
 <h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from <b>Pakistan</b></i> <img align="center" src="https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png" alt="Pakistan Flag" height="40" width="50" /></h3>
-<a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
-
+<!-- <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a> -->
 <p>
  <a href="https://www.buymeacoffee.com/shjz"><img src="https://camo.githubusercontent.com/9a1a9228dceac612322ceaf869c3e7616a4800682991a5c2d8c10d742f038046/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d53706f6e736f72266d6573736167653d254532253944254134266c6f676f3d47697448756226636f6c6f723d666636396234" alt="Sponsor Me" />
 </a>
@@ -18,13 +17,13 @@
 - 💻 All of my projects are available at my [**Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar).
 
 - 📝 You can check out my 👉 <a href="resume.pdf" alt="Resume" target="_blank"><b>Resume</b></a>
-
+<a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
 - 📝 I regularly write Blogs on [**Hashnode**](https://shjz.hashnode.dev/) and [Dev](https://dev.to/shjz)
 
 - 📫 How to reach me <a href="mailto=syedhamzajaffarzaidi@gmail.com" target="_blank"><b>syedhamzajaffarzaidi@gmail.com</b></a>
-<a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
+
 - ⚡ Fun fact **I'm good with people**.
 
 <h2 align="left">🌐 Connect with me on:</h2>
@@ -39,7 +38,7 @@
 <a href="https://discord.gg/kERrH86r2f" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">👨🏻‍💻 Skills (Languges & Tools):</h2>
+<h2 align="center">👨🏻‍💻 Skills (Languges & Tools):</h2>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
