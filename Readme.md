@@ -8,7 +8,7 @@
 
 - 💻 All of my projects are available at my [**Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar).
 
-- 📝 You can check out my 👉 <a href="resume.pdf" alt="Resume" target="_blank"><b>Resume</b></a>
+- 📝 You can check out my 👉 <a href="Resume digital.pdf" alt="Resume" target="_blank"><b>Resume</b></a>
 <a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
