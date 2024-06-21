@@ -74,11 +74,6 @@
 <img align="center" width="48%" src="https://github-contributor-stats.vercel.app/api?username=HamzaZaidiX&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="All Yearly Contributions" />
 </p>
 
-<h3 align="center">📈 Visitor's Count:</h3>
- <p align="center"> 
- <img src="https://profile-counter.glitch.me/{HamzaZaidiX}/count.svg" alt="HamzaZaidiX" />
-</p>
-
 <h3 align="center">🏆 Trophies:</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=HamzaZaidiX&theme=dracula&no-bg=true&margin-w=10&margin-h=10" alt="SHJZ Trophies" />
