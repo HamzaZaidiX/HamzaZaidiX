@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/HamzaZaidiX/HamzaZaidiX/assets/52501040/72ffa756-2cf7-42e0-b4f8-b3f5727c1b17" /></h1>
-
+<img src="https://visitcount.itsvg.in/api?id=HamzaZaidiX&icon=0&color=dark" alt="Visitors count" />
 <h1 align="center" font_size="40"><i>Hi 👋, I'm Hamza Zaidi</i></h1>
 <h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from <b>Pakistan</b></i> <img align="center" src="https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png" alt="Pakistan Flag" height="40" width="60" /></h3>
 <!-- <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a> -->
@@ -68,7 +68,10 @@
 <p align="center">
 <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaZaidiX&theme=tokyonight&layout=compact" alt="Most Languages Used" />
 <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=HamzaZaidiX&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="SHJZ GitHub Stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaZaidiX&theme=highcontrast&hide_border=true" alt="SHJZ" />
+<img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaZaidiX&theme=highcontrast&hide_border=true" alt="SHJZ" />
+</p>
+<p align="center">
+<img align="center" width="48%" src="https://github-contributor-stats.vercel.app/api?username=HamzaZaidiX&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="All Yearly Contributions" />
 </p>
 
 <h3 align="center">📈 Visitor's Count:</h3>
