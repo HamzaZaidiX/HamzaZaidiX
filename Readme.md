@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/HamzaZaidiX/HamzaZaidiX/assets/52501040/72ffa756-2cf7-42e0-b4f8-b3f5727c1b17" /></h1>
-<img src="https://visitcount.itsvg.in/api?id=HamzaZaidiX&icon=0&color=dark" alt="Visitors count" />
+<h3 align="left"><img src="https://visitcount.itsvg.in/api?id=HamzaZaidiX&icon=0&color=dark" alt="Visitors count" /> <img src="https://raw.githubusercontent.com/HamzaZaidiX/support-palestine-banner/master/StandWithPalestine.svg" alt="Palestine Support Banner" /></h3>
 <h1 align="center" font_size="40"><i>Hi 👋, I'm Hamza Zaidi</i></h1>
 <h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from <b>Pakistan</b></i> <img align="center" src="https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png" alt="Pakistan Flag" height="40" width="60" /></h3>
 <!-- <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a> -->
@@ -82,6 +82,7 @@
 <h3 align="center">💰 Support Me</h3>
  <p align="center"> 
 <a href="https://www.buymeacoffee.com/shjz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy-Me-A-Coffee" width="200" ></a>
+<br/> <a href="https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md" target="_blank"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Palestine Donate" /></a>
 </p>
 
 <h1 align="center">Bye 👋</h1>
