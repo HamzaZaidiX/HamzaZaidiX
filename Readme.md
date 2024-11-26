@@ -59,11 +59,11 @@
 
 <h3 align="center">✍️ Blogs:</h3>
 <p align="center" ><a align="center" href="https://shjz.hashnode.dev/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Drs91RS/brand-icon.png" alt="Hashnode" width="50" height="50"/></a> 
-<a align="center" href="https://dev.to/shjz" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="50" height="50"/></a>
+<a align="center" href="https://dev.to/shjz" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/5358cedc-9525-4480-8d59-2c7fbb4974d2" alt="Dev.to" width="60" height="50"/></a>
 </p>
 
 <h3 align="center">✍️ Dev Quotes:</h3>
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" /></p>
+<p align="center"><img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=Architect&quoteType=random" alt="Dev Quotes" /></p>
 
 <h3 align="center">📈 Stats Summary:</h3>
 <p align="center">
