@@ -57,15 +57,17 @@
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg" alt="Adobe-Premiere-Pro-CC" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">✍️ Blogs:</h3>
+<h2 align="center">✍️ Blogs:</h2>
 <p align="center" ><a align="center" href="https://shjz.hashnode.dev/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Drs91RS/brand-icon.png" alt="Hashnode" width="50" height="50"/></a> 
 <a align="center" href="https://dev.to/shjz" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/5358cedc-9525-4480-8d59-2c7fbb4974d2" alt="Dev.to" width="60" height="50"/></a>
+<a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7139585421440724992" target="_blank"><img src="https://github.com/user-attachments/assets/6ec33291-0c81-402a-ac8b-9c2e94dd754a" alt="Linkedin Newsletter Blog" /></a>
+</a>
 </p>
 
-<h3 align="center">✍️ Dev Quotes:</h3>
+<h2 align="center">✍️ Dev Quotes:</h2>
 <p align="center"><img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=Architect&quoteType=random" alt="Dev Quotes" /></p>
 
-<h3 align="center">📈 Stats Summary:</h3>
+<h2 align="center">📈 Stats Summary:</h2>
 <p align="center">
 <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaZaidiX&theme=tokyonight&layout=compact" alt="Most Languages Used" />
 <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=HamzaZaidiX&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="SHJZ GitHub Stats" />
@@ -75,12 +77,12 @@
 <img align="center" width="48%" src="https://github-contributor-stats.vercel.app/api?username=HamzaZaidiX&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="All Yearly Contributions" />
 </p>
 
-<h3 align="center">🏆 Trophies:</h3>
+<h2 align="center">🏆 Trophies:</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=HamzaZaidiX&theme=dracula&no-bg=true&margin-w=10&margin-h=10" alt="SHJZ Trophies" />
 </p>
 
-<h3 align="center">💰 Support Me</h3>
+<h2 align="center">💰 Support Me</h2>
  <p align="center"> 
 <a href="https://www.buymeacoffee.com/shjz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy-Me-A-Coffee" width="200" ></a>
 <br/> <a href="https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md" target="_blank"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Palestine Donate" /></a>
