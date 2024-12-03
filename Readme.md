@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning more about **Latest Tech in Web Dev, MERN Stack, Blockchain & other Courses etc.**
 
-- 💻 All of my projects are available at my [**Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar).
+- 💻 All of my projects are available at my [**GitHub Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar).
 
-- 📝 You can check out my Portfolio Website 👉 <a href="https://hamza-zaidi.w3spaces.com/" alt="Portfolio" target="_blank"><b>Portfolio Website</b></a>
+- 📝 You can check out my Portfolio Website 👉 <a href="https://hamza-zaidi.netlify.app/" alt="Portfolio website" target="_blank"><b>Portfolio Website</b></a>
 <a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
@@ -22,7 +22,7 @@
 
 <h2 align="left">🌐 Connect with me on:</h2>
 <p align="left">
- <a href="https://hamza-zaidi.w3spaces.com/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/1095d07f-c716-4c67-9156-073c15607df5" alt="Portfolio" height="50" width="50" /></a>
+ <a href="https://hamza-zaidi.netlify.app/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/1095d07f-c716-4c67-9156-073c15607df5" alt="Portfolio Website" height="50" width="50" /></a>
 <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D923352851947%26app%3Dfacebook%26entry_point%3Dpage_cta%26fbclid%3DIwAR1IVRyFMtqSJB3pV7jqsUWwwoEYvjIB2O7OwmvUDOGk3mbyUYjdifRW1OU&h=AT3KKv1XvI1Og4qUx0Jt-AGPzDXM3_opPKqWYW33T2yJOGdkLuRl2Rp0Ov2mFAuOLke3IkaC9oTrUgRx7l7L5WavatEdIiXKk0AnvNTbSY1Ad4YKE2cpudBgQVLYtupOyGkqBw" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" alt="WhatsApp" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/shjz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
 <a href="https://www.facebook.com/HamzaJZaidi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
