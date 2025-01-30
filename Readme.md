@@ -14,7 +14,7 @@
 
 - 📝 Sometimes when free I write Blogs on [**Hashnode**](https://shjz.hashnode.dev/) and [Dev](https://dev.to/shjz)
 
-- 📫 How to reach me <a href="mailto=shjz.dev@gmail.com" target="_blank"><b>syedhamzajaffarzaidi@gmail.com</b></a>
+- 📫 How to reach me <a href="mailto=shjz.dev@gmail.com" target="_blank"><b>shjz.dev@gmail.com</b></a>
 
 - 💻 Connect with me on <a href="https://www.linkedin.com/in/shjz" target="_blank"><b>Linkedin</b></a>
 
