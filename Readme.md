@@ -8,7 +8,7 @@
 
 - 💻 All of my projects are available at my [**GitHub Repo's**](https://github.com/HamzaZaidiX) and some of you can see on [**Replit**](https://replit.com/@HamzaJaffar).
 
-- 📝 You can check out my Portfolio Website 👉 <a href="https://hamza-zaidi.netlify.app/" alt="Portfolio website" target="_blank"><b>Portfolio Website</b></a>
+- 📝 You can check out my Portfolio Website 👉 <a href="https://hamza-zaidi.netlify.app/" alt="Portfolio website" target="_blank"><b>Portfolio Website</b></a> or Download my <a href="https://github.com/HamzaZaidiX/HamzaZaidiX/blob/main/My%20Resume%201.pdf"><b>Resume</b></a>
 <a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
 - 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
 
